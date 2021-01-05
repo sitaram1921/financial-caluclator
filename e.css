@@ -1,0 +1,94 @@
+
+form
+{
+	margin: 15px auto;
+	width: 400px;
+}
+
+h1 {
+font-family :Courier New;
+color:black;
+display: block;
+background-color:#EE4C7C;
+font-size : 60px;
+text-align:center;
+height:90px;
+line-height:90px;
+font-size:70px;
+
+}
+
+h2
+{
+	text-align:center;
+	font-size: 50px;
+	color: blue;
+}
+input
+{
+	padding: 3px;
+	
+}
+input[type="text"]
+{
+	display: block;
+	margin-bottom: 2px;
+	width: 50%;
+	border: 2px solid steelblue;
+}
+a {
+width:200px;
+height:50px;
+background-color:#9A1750 ;
+opacity: .8;
+line-height: 30px;
+text-align: center;
+font-size:15px;
+text-decoration: none;
+color:black;
+display: block;
+line-height:40px;
+
+
+}
+div {
+	padding-left:500px;
+    height:500px;
+	width:50px;
+    
+    
+}
+table {
+  border-collapse: collapse;
+  
+  margin: 10px auto;
+  
+  
+}
+
+table, th, td {
+  border: 1px solid black;
+  
+  
+}
+
+th {
+	height: 2px;
+	width : 2px;
+	background-color: #058FB2;
+	color: white;
+	font-family: "Times New Roman";
+}
+
+th, td {
+	padding: 10px;
+	text-align: left;
+	text-align: center;
+}
+p {
+	text-decoration: none;
+	color: black;
+	font-family: Lucida Console;
+	font-size:20px;
+	padding-left:100px;
+}
